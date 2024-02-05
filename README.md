@@ -1,6 +1,6 @@
 # Multi-level-scheduling-queue
 
-The multi-level feedback queue (MLFQ) is a CPU scheduling algorithm that assigns priority levels to processes and uses multiple queues to manage the execuƟon order. The algorithm is designed to provide better performance and responsiveness by dynamically adjusting the priority of processes based on their behaviour. 
+The multi-level feedback queue (MLFQ) is a CPU scheduling algorithm that assigns priority levels to processes and uses multiple queues to manage the execution order. The algorithm is designed to provide better performance and responsiveness by dynamically adjusting the priority of processes based on their behaviour. 
 Here is an explanaƟon of how the MLFQ CPU scheduling algorithm works: 
 1. Priority Levels: The MLFQ algorithm divides processes into multiple priority levels. Each level has a different priority 
 assigned to it. Typically, the highest priority level is given to interacƟve processes that require quick responses, while lower 
